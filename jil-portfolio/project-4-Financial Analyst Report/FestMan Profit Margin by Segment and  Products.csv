@@ -1,0 +1,31 @@
+﻿Segment,Product,Profit Margin
+Small Business,Amarilla,8.86%
+Small Business,Carretera,8.90%
+Small Business,Montana,11.14%
+Small Business,Paseo,10.71%
+Small Business,Velo,6.73%
+Small Business,VTT,10.51%
+Midmarket,Amarilla,25.58%
+Midmarket,Carretera,27.90%
+Midmarket,Montana,28.90%
+Midmarket,Paseo,28.50%
+Midmarket,Velo,25.96%
+Midmarket,VTT,27.33%
+Government,Amarilla,22.21%
+Government,Carretera,23.01%
+Government,Montana,20.30%
+Government,Paseo,20.54%
+Government,Velo,22.48%
+Government,VTT,22.35%
+Enterprise,Amarilla,-3.60%
+Enterprise,Carretera,-6.95%
+Enterprise,Montana,-1.19%
+Enterprise,Paseo,-1.55%
+Enterprise,Velo,-2.37%
+Enterprise,VTT,-4.31%
+Channel Partners,Amarilla,72.43%
+Channel Partners,Carretera,73.68%
+Channel Partners,Montana,73.50%
+Channel Partners,Paseo,73.01%
+Channel Partners,Velo,73.40%
+Channel Partners,VTT,73.05%
