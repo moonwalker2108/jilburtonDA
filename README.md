@@ -29,7 +29,8 @@ I specialize in analyzing healthcare data to uncover insights that improve patie
 - Highlighted trends impacting revenue and efficiency  
 - Tools: Power BI, SQL  
 
-🚀 [View Full Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-2-kpi-dashboard)
+🚀 [View Full Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-2-revenue-cycle)
+
 
 ---
 
