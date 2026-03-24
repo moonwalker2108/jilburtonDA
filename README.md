@@ -15,12 +15,13 @@ I specialize in analyzing healthcare data to uncover insights that improve patie
 
 ## 🏥 Featured Projects
 
-### 📊 Medicare Claims & Denial Analysis
-- Identified key drivers of claim denials  
-- Analyzed revenue cycle KPIs and trends  
-- Tools: SQL, Excel, Power BI  
+### 📊 Medicare Claims & Denials Analysis  
+SQL | Tableau | Healthcare Analytics  
 
-🚀 [View Full Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-1-medicare-denials)
+Analyzed Medicare claims data to identify denial trends, root causes, and revenue loss drivers.  
+
+🔗 [View Interactive Dashboard](https://public.tableau.com/views/Medicare_Denials_Dashboard/MedicareDenialsOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📁 [View Full Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-1-medicare-denials)
 
 ---
 
