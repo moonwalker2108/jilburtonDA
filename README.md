@@ -18,7 +18,9 @@ I specialize in analyzing healthcare data to uncover insights that improve patie
 ### 📊 Medicare Claims & Denials Analysis  
 SQL | Tableau | Healthcare Analytics  
 
-Analyzed Medicare claims data to identify denial trends, root causes, and revenue loss drivers.  
+Analyzed Medicare claims data to identify denial trends, root causes, and revenue loss drivers. 
+
+![Medicare Denials Dashboard](project-1-medicare-denials/dashboard-preview.png)
 
 🔗 [View Interactive Dashboard](https://public.tableau.com/views/Medicare_Denials_Dashboard/MedicareDenialsOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 📁 [View Full Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-1-medicare-denials)
