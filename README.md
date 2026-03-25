@@ -57,7 +57,7 @@ Developed an interactive dashboard to analyze healthcare claims data, focusing o
 ---
 
 #### 📸 Dashboard Preview
-![Healthcare Dashboard](jil-portfolio/project-2-revenue-cycle/Healthcare Claims & Risk Analysis Dashboard(power BI).png)
+![Healthcare Dashboard](jil-portfolio/project-2-revenue-cycle/Healthcare Claims & Risk Analysis Dashboard (Power BI).png)
 
 ---
 
