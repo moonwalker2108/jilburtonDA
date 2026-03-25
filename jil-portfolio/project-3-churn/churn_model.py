@@ -13,3 +13,31 @@ clf.fit(X_train, y_train)
 
 pred = clf.predict(X_test)
 print('F1-score:', f1_score(y_test, pred))
+
+# -----------------------------
+# Sample Prediction Demo
+# -----------------------------
+
+# Create a sample patient (use same columns as your model)
+sample_patient = pd.DataFrame([{
+    'age': 67,
+    'premium': 450,
+    'claims_count': 3,
+    'tenure_months': 6
+}])
+
+# Get prediction (0 or 1)
+prediction = clf.predict(sample_patient)[0]
+
+# Get probability
+probability = clf.predict_proba(sample_patient)[0][1]
+
+# Convert to readable label
+risk_level = "High" if prediction == 1 else "Low"
+
+print("\n--- Sample Prediction Demo ---")
+print("Patient Profile:")
+print(sample_patient.to_string(index=False))
+
+print(f"\nPredicted Churn Risk: {risk_level}")
+print(f"Churn Probability: {probability:.2%}")
