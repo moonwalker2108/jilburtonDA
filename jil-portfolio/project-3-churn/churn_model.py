@@ -1,9 +1,16 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import f1_score
+from sklearn.metrics import f1_scorepy churn_model.py
 
-df = pd.read_csv('churn_data_dictionary.csv')
+df = pd.DataFrame({
+    'age': [45, 60, 30, 50, 70, 38, 62, 41, 55, 29],
+    'premium': [200, 400, 150, 300, 500, 220, 450, 280, 390, 180],
+    'claims_count': [1, 3, 0, 2, 4, 1, 3, 2, 2, 0],
+    'tenure_months': [12, 6, 24, 18, 3, 15, 8, 20, 10, 30],
+    'churn': [0, 1, 0, 1, 1, 0, 1, 0, 1, 0]
+})
+
 X = df[['age','premium','claims_count','tenure_months']]
 y = df['churn']
 
