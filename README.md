@@ -67,13 +67,44 @@ Developed an interactive dashboard to analyze healthcare claims data, focusing o
 ---
 ---
 
-### 🤖 Patient Churn Prediction Model
-- Developed predictive model to identify at-risk patients  
-- Improved retention strategy insights  
-- Tools: Python, Pandas, Scikit-learn  
+### 🤖 Patient Churn Prediction Model  
+Python | Pandas | Scikit-learn | Predictive Analytics  
 
-🚀 [View Full Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-3-churn)
+Built a machine learning model to identify patients at risk of churn using behavioral and utilization-based features. This project demonstrates how predictive analytics can support proactive outreach and retention strategies in healthcare.
 
+---
+
+#### 🔍 Key Highlights
+- Cleaned and prepared structured patient data for modeling  
+- Engineered features related to engagement, utilization, and risk  
+- Trained a classification model to predict patient churn  
+- Demonstrated model output using a sample patient prediction scenario  
+
+---
+
+#### 📈 Business Value
+- Helps identify high-risk patients earlier  
+- Supports targeted retention and outreach efforts  
+- Translates model results into actionable healthcare insights  
+
+---
+
+#### 🛠 Tools & Techniques
+- Python  
+- Pandas  
+- Scikit-learn  
+- Data preprocessing  
+- Classification modeling  
+- Model evaluation  
+
+---
+
+#### 📸 Model Demo
+![Churn Model Demo](jil-portfolio/project-3-churn/churn-demo.png)
+
+---
+
+📁 **[View Full Project Files](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-3-churn)**
 ---
 
 ## 🛠 Tools & Skills
