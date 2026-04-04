@@ -2,6 +2,8 @@
 ## 🏥 Healthcare Claims & Risk Analysis Dashboard  
 **SQL | Power BI | Excel | Healthcare Analytics**
 
+![Dashboard Preview](claims-risk-dashboard.png)
+
 Developed an interactive dashboard analyzing healthcare claims data, patient risk scores, and cost trends to uncover actionable insights for cost reduction and improved patient outcomes.
 
 ---
