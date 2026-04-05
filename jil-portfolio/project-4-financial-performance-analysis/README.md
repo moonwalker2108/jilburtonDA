@@ -50,8 +50,11 @@ Channel Partners show significantly higher profit margins (~73%) compared to Ent
 
 ---
 
-📁 [Download Dataset](festman-profit-margin-by-segment-product.csv)
-📁 Download PBIX
+| File | Description | Access |
+|------|-------------|--------|
+| festman-financial-report.pbix | Power BI Dashboard | 📁 [Download PBIX](festman-financial-report.pbix) |
+| festman-profit-margin-by-segment-product.csv | Dataset | 📁 [Download Dataset](festman-profit-margin-by-segment-product.csv) |
+
 
 ![Dashboard Preview](festman-store-dashboard.png)
 
