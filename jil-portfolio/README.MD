@@ -158,7 +158,7 @@ Analyzed retail financial data to evaluate revenue trends, profitability, and ov
 * Data Modeling (structured financial datasets for analysis)
 * Data Visualization (trend analysis, KPI tracking, and performance insights)
 
-![Dashboard Preview](./jil-portfolio/project-4-financial-performance-analysis/festman-store-dashboard.png)
+![Dashboard Preview](project-4-financial-performance-analysis/festman-store-dashboard.png)
 
 🔗 [View Project](./jil-portfolio/project-4-financial-performance-analysis)  
 📁 [Download PBIX](./jil-portfolio/project-4-financial-performance-analysis/festman-financial-report.pbix)  
