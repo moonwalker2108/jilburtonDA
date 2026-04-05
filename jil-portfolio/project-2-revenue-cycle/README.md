@@ -33,3 +33,14 @@ Analyzed key revenue cycle metrics to evaluate billing efficiency, delays, and a
 📁 [Download Excel](RevenueCycle_KPI.cxlsx)
 📊 [View CSV](RevenueCycle_KPI.csv) • [View SQL](RevenueCycle_KPI.sql)
 
+
+
+<p align="center"> 📫 Let’s Connect</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jil-burton-dataanalyst">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D4AFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jil.burton88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-9575CD?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
