@@ -1,6 +1,8 @@
 ## 🤖 Patient Churn Prediction Model  
 Python | Machine Learning | Healthcare Analytics  
 
+![Dashboard](churn-demo.png)
+
 Built a machine learning model to identify patients at risk of churn using behavioral and utilization-based features.
 
 ---
@@ -29,8 +31,9 @@ Built a machine learning model to identify patients at risk of churn using behav
 
 #### 📁 Files
 
-![Dashboard](churn-demo.png)
 
-- [Churn Model Script](churn_model.py) — Python model used for prediction  
-- [Churn Demo Output](churn_demo.png) — Example prediction results  
-- [Data Dictionary](churn_data_dictionary.csv) — Feature definitions and descriptions  
+| File | Description | Access |
+|------|-------------|--------|
+|churn_model.py|  Python model used for prediction  | [Churn Model Script](churn_model.py) |
+|churn_demo.png | Example prediction results | [Churn Demo Output](churn_demo.png)| 
+|churn_data_dictionary.csv|Feature definitions and descriptions| [Data Dictionary](churn_data_dictionary.csv)|  
