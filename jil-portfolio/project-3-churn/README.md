@@ -28,5 +28,5 @@ Built a machine learning model to identify patients at risk of churn using behav
 
 #### 📁 Files
 - churn_model.py  
-- churn-demo.png
+![Churn Model Demo](jil-portfolio/project-3-churn/churn-demo.png)
 - churn_data_dictionary.csv
