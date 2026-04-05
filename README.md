@@ -196,7 +196,7 @@ Developed an interactive dashboard analyzing healthcare claims data, patient ris
 ---
 
 
-## 📫 Let’s Connect
+<p align="center"> 📫 Let’s Connect</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jil-burton-dataanalyst">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6D4AFF?style=for-the-badge&logo=linkedin&logoColor=white" />
