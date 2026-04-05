@@ -163,44 +163,30 @@ Analyzed retail financial data to evaluate revenue trends, profitability, and ov
 📁 [View Dataset](./jil-portfolio/project-4-financial-performance-analysis/festman-profit-margin-by-segment-product.csv)
 
 ---
-### 📊 Healthcare Claims & Revenue Analysis Dashboard  
+### 🏥 Healthcare Claims & Risk Analysis Dashboard  
 Power BI | SQL | Healthcare Analytics  
 
-Developed an interactive dashboard to analyze healthcare claims data, focusing on financial performance, claim activity, and patient risk trends. The dashboard highlights key metrics related to reimbursement, cost per claim, and clinical risk to support data-driven decision-making.
-
----
+Developed an interactive dashboard analyzing healthcare claims data, patient risk scores, and cost trends.
 
 #### 🔍 Key Highlights
-- Monitored total paid amounts over time to evaluate financial trends  
-- Calculated average claim cost to assess cost efficiency per claim  
-- Tracked claim volume to understand overall activity levels  
-- Analyzed patient flare risk scores to evaluate clinical risk patterns  
+- Analyzed healthcare claims cost patterns and reimbursement trends
+- Tracked patient risk scores over time
+- Explored relationships between days supply and clinical risk
 
----
-
-#### 📈 Key Insights
-- Paid claim totals remained stable month-to-month, indicating consistent reimbursement patterns  
-- Flare risk trends showed minimal volatility, suggesting a steady overall patient risk profile  
-- Differences in days supply did not significantly impact flare risk across demographic groups  
-
----
+#### 💡 Business Value
+- Identifies high-cost patient populations
+- Supports risk-based decision-making
+- Highlights opportunities for cost optimization
 
 #### 🛠 Tools & Techniques
-- Power BI (data visualization & dashboard design)  
-- DAX (measures and calculated metrics)  
-- Data modeling & KPI development  
-- Data storytelling & insight generation  
+- Power BI (dashboard development and visualization)
+- DAX (calculated measures and KPIs)
+- SQL (data extraction and aggregation)
 
----
+![Dashboard Preview](./jil-portfolio/project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.png)
 
-#### 📸 Dashboard Preview
-![Healthcare Claims Dashboard](jil-portfolio/project-2-revenue-cycle/kpi-dashboard.png)
-
-
----
-
-🔗 **[View Interactive Dashboard](https://app.powerbi.com/links/CMZCCVLJTh?ctid=6a30151e-807a-4769-badb-42396079ee39&pbi_source=linkShare)**  
-📁 **[View Full Project Files](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-2-revenue-cycle)**
+🔗 [View Project](./jil-portfolio/project-5-claims-risk-analytics-dashboard)  
+📁 [Download PBIX](./jil-portfolio/project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.pbix)
 ---
 
 
