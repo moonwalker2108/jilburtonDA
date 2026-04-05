@@ -15,11 +15,15 @@ I specialize in analyzing healthcare data to uncover insights that improve patie
 | 📊 Project                         | 🛠 Tool        | 🔗 Access                                                                     |
 | ---------------------------------- | -------------- | ----------------------------------------------------------------------------- |
 | Medicare Denials Dashboard | Tableau Public | [View Dashboard](https://public.tableau.com/app/profile/jil.burton/viz/Medicare_Denials_Dashboard/MedicareDenialsOverview?publish=yes) |
-| Revenue-Cycle KPI Report | Excel + SQL | [Download Excel](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.xlsx) |
-| Revenue-Cycle KPI Report | Excel + SQL | [View CSV](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.csv) • [View SQL](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-2-revenue-cycle/revenue_cycle_kpi.sql) |
+| Revenue Cycle Performance Analysis | Excel + SQL | [Download Excel](./jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.xlsx) |
+| Revenue Cycle Data Files | Excel + SQL | [View CSV](./jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.csv) • [View SQL](./jil-portfolio/project-2-revenue-cycle/revenue_cycle_kpi.sql) |
 | Healthcare Churn Model | Python | [nbViewer](https://nbviewer.org/github/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-3-churn/churn_model.py) |
-| FestMan Stores – Financial Report | Power BI | [Download PBIX](https://github.com/moonwalker2108/jilburtonDA/blob/main/project-4-powerbi/FestMan%20Stores.pbix) |
-| Healthcare Claims & Risk Dashboard | Power BI       | [View Project](YOUR_PROJECT5_LINK) • [Download PBIX](YOUR_PROJECT5_PBIX_LINK) |
+| Financial Performance Analysis (Retail) | Power BI | [View Project](./jil-portfolio/project-4-financial-performance-analysis) • [Download PBIX](./jil-portfolio/project-4-financial-performance-analysis/festman-financial-report.pbix) |
+| Healthcare Claims & Risk Dashboard | Power BI | [View Project](./jil-portfolio/project-5-claims-risk-analytics-dashboard) • [Download PBIX](./jil-portfolio/project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.pbix) |
+
+
+
+
 
 ---
 
