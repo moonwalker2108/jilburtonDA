@@ -19,7 +19,7 @@ I specialize in analyzing healthcare data to uncover insights that improve patie
 | Revenue Cycle Data Files | Excel + SQL | [View CSV](./jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.csv) • [View SQL](./jil-portfolio/project-2-revenue-cycle/revenue_cycle_kpi.sql) |
 | Healthcare Churn Model | Python | [nbViewer](https://nbviewer.org/github/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-3-churn/churn_model.py) |
 | Financial Performance Analysis (Retail) | Power BI | [View Project](./jil-portfolio/project-4-financial-performance-analysis) • [Download PBIX](./jil-portfolio/project-4-financial-performance-analysis/festman-financial-report.pbix) |
-| Healthcare Claims & Risk Dashboard | Power BI | [View Project](./jil-portfolio/project-5-claims-risk-analytics-dashboard) • [Download PBIX](./jil-portfolio/project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.pbix) |
+| Healthcare Claims & Risk Dashboard | Power BI | [View Project](./jil-portfolio/project-5-claims-risk-analytics-dashboard) • [Download PBIX](./jil-portfolio/project-5-claims-risk-analytics-dashboard/claims_risk_dashboard.pbix) |
 
 
 
