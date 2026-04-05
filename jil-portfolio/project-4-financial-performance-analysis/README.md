@@ -3,6 +3,8 @@
 
 Power BI | Financial Analytics
 
+![Dashboard Preview](festman-store-dashboard.png)
+
 Analyzed retail financial data to evaluate revenue trends, profitability, and performance across business segments and products.
 
 ---
@@ -49,6 +51,7 @@ Analyzed retail financial data to evaluate revenue trends, profitability, and pe
 Channel Partners show significantly higher profit margins (~73%) compared to Enterprise segments, which operate at a loss, indicating potential pricing or cost inefficiencies.
 
 ---
+## 📁 Files
 
 | File | Description | Access |
 |------|-------------|--------|
@@ -56,7 +59,7 @@ Channel Partners show significantly higher profit margins (~73%) compared to Ent
 | festman-profit-margin-by-segment-product.csv | Dataset | 📁 [Download Dataset](festman-profit-margin-by-segment-product.csv) |
 
 
-![Dashboard Preview](festman-store-dashboard.png)
+
 
 
 
