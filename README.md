@@ -80,8 +80,8 @@ Analyzed key revenue cycle metrics to evaluate billing efficiency and accounts r
 - SQL (data extraction and KPI calculations)
 - Excel (Power Query, pivot tables, reporting)
 
-🔗 View Project  
-📁 [Download Excel](RevenueCycle_KPI.xlsx) • [View CSV](RevenueCycle_KPI.csv)  • [View SQL](RevenueCycle_KPI.sql)
+🔗 [View Project](./jil-portfolio/project-2-revenue-cycle)  
+📁 [Download Excel](./jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.xlsx) • [View CSV](./jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.csv) • [View SQL](./jil-portfolio/project-2-revenue-cycle/revenue_cycle_kpi.sql)
 
 
 ---
