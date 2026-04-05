@@ -40,7 +40,7 @@ SQL | Tableau | Healthcare Analytics
 
 Analyzed Medicare claims data to identify denial trends, root causes, and revenue loss drivers. 
 
-![Medicare Denials Dashboard](jil-portfolio/project-1-medicare-denials/dashboard-preview.png)
+![Dashboard](project-1-medicare-denials/dashboard-preview.png)
 
 #### 🔍 Key Highlights
 - Identified patterns in denied claims and payer behavior
@@ -118,7 +118,7 @@ Built a machine learning model to identify patients at risk of churn using behav
 
 
 #### 📸 Model Demo
-![Churn Model Demo](jil-portfolio/project-3-churn/churn-demo.png)
+![Churn Model Demo](project-3-churn/churn-demo.png)
 
 
 
@@ -188,7 +188,7 @@ Developed an interactive dashboard analyzing healthcare claims data, patient ris
 - DAX (calculated measures and KPIs)
 - SQL (data extraction and aggregation)
 
-![Dashboard Preview](./jil-portfolio/project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.png)
+![Dashboard Preview](project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.png)
 
 🔗 [View Project](./jil-portfolio/project-5-claims-risk-analytics-dashboard)  
 📁 [Download PBIX](./jil-portfolio/project-5-claims-risk-analytics-dashboard/./claims_risk_dashboard.pbix)
