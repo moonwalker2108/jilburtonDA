@@ -79,7 +79,7 @@ Analyzed key revenue cycle metrics to evaluate billing efficiency and accounts r
 - Excel (Power Query, pivot tables, reporting)
 
 🔗 [View Project](./jil-portfolio/project-2-revenue-cycle)  
-📁 [Download Excel](./jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.xlsx) • [View CSV](./jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.csv) • [View SQL](./jil-portfolio/project-2-revenue-cycle/revenue_cycle_kpi.sql)
+📁 [Download Excel](project-2-revenue-cycle/RevenueCycle_KPI.xlsx) • [View CSV](project-2-revenue-cycle/RevenueCycle_KPI.csv) • [View SQL](./jil-portfolio/project-2-revenue-cycle/revenue_cycle_kpi.sql)
 
 
 ---
@@ -160,9 +160,9 @@ Analyzed retail financial data to evaluate revenue trends, profitability, and ov
 
 ![Dashboard Preview](project-4-financial-performance-analysis/festman-store-dashboard.png)
 
-🔗 [View Project](./jil-portfolio/project-4-financial-performance-analysis)  
-📁 [Download PBIX](./jil-portfolio/project-4-financial-performance-analysis/festman-financial-report.pbix)  
-📁 [View Dataset](./jil-portfolio/project-4-financial-performance-analysis/festman-profit-margin-by-segment-product.csv)
+🔗 [View Project](project-4-financial-performance-analysis)  
+📁 [Download PBIX](project-4-financial-performance-analysis/festman-financial-report.pbix)  
+📁 [View Dataset](project-4-financial-performance-analysis/festman-profit-margin-by-segment-product.csv)
 
 ---
 ### 🏥 Healthcare Claims & Risk Analysis Dashboard  
@@ -190,8 +190,8 @@ Developed an interactive dashboard analyzing healthcare claims data, patient ris
 
 ![Dashboard Preview](project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.png)
 
-🔗 [View Project](./jil-portfolio/project-5-claims-risk-analytics-dashboard)  
-📁 [Download PBIX](./jil-portfolio/project-5-claims-risk-analytics-dashboard/./claims_risk_dashboard.pbix)
+🔗 [View Project](project-5-claims-risk-analytics-dashboard)  
+📁 [Download PBIX](project-5-claims-risk-analytics-dashboard/./claims_risk_dashboard.pbix)
 
 ---
 
