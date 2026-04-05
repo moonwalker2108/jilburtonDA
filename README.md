@@ -1,12 +1,10 @@
-# Hi, I'm Jil 👋  
-Healthcare Data Analyst | SQL • Power BI • Python  
+# Jil Burton — Data Analyst Portfolio  
+**Remote | Healthcare Analytics | SQL | Power BI | Python**
 
-I specialize in analyzing healthcare data to uncover insights that improve patient outcomes, reduce costs, and optimize operations.
-# Jil Burton — Data Analyst Portfolio
+Hi, I’m Jil 👋  
+💼 Healthcare Data Analyst specializing in claims analysis, revenue cycle performance, and patient risk insights.
 
-**Remote | Healthcare Claims | SQL | Power BI | Python**
-
-💼 Healthcare Data Analyst specializing in claims analysis, cost optimization, and patient risk insights.
+---
 
 
 ---
