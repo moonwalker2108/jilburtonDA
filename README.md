@@ -77,7 +77,7 @@ Analyzed key revenue cycle metrics to evaluate billing efficiency and accounts r
 - Excel (Power Query, pivot tables, reporting)
 
 🔗 View Project  
-📁 [Download Excel](RevenueCycle_KPI.cxlsx) • [View CSV](RevenueCycle_KPI.csv)  • [View SQL](RevenueCycle_KPI.sql)
+📁 [Download Excel](RevenueCycle_KPI.xlsx) • [View CSV](RevenueCycle_KPI.csv)  • [View SQL](RevenueCycle_KPI.sql)
 
 
 ---
