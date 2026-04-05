@@ -91,7 +91,7 @@ Python | Pandas | Scikit-learn | Predictive Analytics
 
 Built a machine learning model to identify patients at risk of churn using behavioral and utilization-based features. This project demonstrates how predictive analytics can support proactive outreach and retention strategies in healthcare.
 
----
+
 
 #### 🔍 Key Highlights
 - Cleaned and prepared structured patient data for modeling  
@@ -99,7 +99,7 @@ Built a machine learning model to identify patients at risk of churn using behav
 - Trained a classification model to predict patient churn  
 - Demonstrated model output using a sample patient prediction scenario  
 
----
+
 
 #### 📈 Business Value
 - identify high-risk patients earlier  
@@ -107,7 +107,7 @@ Built a machine learning model to identify patients at risk of churn using behav
 - Translates model results into actionable healthcare insights
 - improves long-term patient engagement 
 
----
+
 
 #### 🛠 Tools & Techniques
 - Python  
@@ -117,15 +117,15 @@ Built a machine learning model to identify patients at risk of churn using behav
 - Classification modeling  
 - Model evaluation  
 
----
+
 
 #### 📸 Model Demo
 ![Churn Model Demo](jil-portfolio/project-3-churn/churn-demo.png)
 
----
+
 
 📁 **[View Full Project Files](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-3-churn)**
----
+
 
 ## 🛠 Tools & Skills
 SQL | Excel | Power BI | Python | Tableau | Data Analysis | Healthcare Analytics  
@@ -137,17 +137,21 @@ Power BI | Financial Analytics
 
 Analyzed retail financial data to evaluate revenue trends, profitability, and overall business performance, providing insights to support strategic decision-making.
 
+
 #### 🔍 Key Highlights
+
 
 * Built an interactive Power BI dashboard to track revenue, expenses, and profit performance
 * Analyzed trends across time periods to identify growth patterns and fluctuations
 * Developed KPIs to monitor overall financial health and operational performance
+  
 
 #### 📊 Key Insights
 
 * Identified periods of declining profitability despite stable revenue
 * Highlighted key revenue drivers contributing to overall performance
 * Revealed opportunities to improve cost management and increase margins
+  
 
 #### 🛠 Tools & Techniques
 
@@ -168,15 +172,18 @@ Power BI | SQL | Healthcare Analytics
 
 Developed an interactive dashboard analyzing healthcare claims data, patient risk scores, and cost trends.
 
+
 #### 🔍 Key Highlights
 - Analyzed healthcare claims cost patterns and reimbursement trends
 - Tracked patient risk scores over time
 - Explored relationships between days supply and clinical risk
 
+
 #### 💡 Business Value
 - Identifies high-cost patient populations
 - Supports risk-based decision-making
 - Highlights opportunities for cost optimization
+
 
 #### 🛠 Tools & Techniques
 - Power BI (dashboard development and visualization)
