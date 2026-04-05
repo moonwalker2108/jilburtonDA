@@ -28,6 +28,9 @@ Built a machine learning model to identify patients at risk of churn using behav
 
 
 #### 📁 Files
-- [ChurnDemo Output](churn-demo.png)  
-- [Churn Model Script](churn_model.py)  
-- [Data Dictionary](churn_data_dictionary.csv)  
+
+![Dashboard](churn-demo.png)
+
+- [Churn Model Script](churn_model.py) — Python model used for prediction  
+- [Churn Demo Output](churn_demo.png) — Example prediction results  
+- [Data Dictionary](churn_data_dictionary.csv) — Feature definitions and descriptions  
