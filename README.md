@@ -186,7 +186,7 @@ Developed an interactive dashboard analyzing healthcare claims data, patient ris
 ![Dashboard Preview](./jil-portfolio/project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.png)
 
 🔗 [View Project](./jil-portfolio/project-5-claims-risk-analytics-dashboard)  
-📁 [Download PBIX](./jil-portfolio/project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.pbix)
+📁 [Download PBIX](./jil-portfolio/project-5-claims-risk-analytics-dashboard/./claims_risk_dashboard.pbix)
 
 ---
 
