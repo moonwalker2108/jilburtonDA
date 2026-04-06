@@ -25,7 +25,7 @@ Analyzed Medicare Part B claims data to identify denial patterns, revenue loss d
 ---
 
 ## 🔗 Project Assets
-📊 [View Tableau Dashboard](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-1-medicare-denials/Medicare_Denials_Dashboard.twbx)
+📊 [View Tableau Dashboard](https://public.tableau.com/views/Medicare_Denials_Dashboard/MedicareDenialsOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
 🧠 [View SQL Queries](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-1-medicare-denials/medicare_denials.sql) 
 
 ---
