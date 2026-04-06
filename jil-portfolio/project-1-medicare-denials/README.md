@@ -1,4 +1,4 @@
-
+# 📊 Medicare Claims & Denials Analysis  
 **SQL | Tableau | Healthcare Analytics**
 
 Analyzed Medicare Part B claims data to identify denial patterns, revenue loss drivers, and trends over time.
