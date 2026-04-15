@@ -1,68 +1,184 @@
 <div align="center">
 
-<h1>📊 Medicare Claims & Denials Analysis</h1>
+<h1>📄 Medicare Claims & Denials Analysis</h1>
 <h3>SQL | Tableau | Healthcare Analytics</h3>
-
-<p>
-Analyzed Medicare Part B claims data to identify denial patterns, quantify revenue leakage, and uncover actionable insights to improve reimbursement outcomes.
-</p>
 
 </div>
 
 ---
 
-## ✨ Impact
-- Identified top denial reason codes contributing to lost reimbursement  
-- Analyzed monthly denial trends to highlight revenue leakage patterns  
-- Calculated denial rate % to evaluate financial performance over time  
+## 🧾 Business Problem
+
+Healthcare providers rely on timely claim reimbursements to maintain revenue cycle stability. However, high denial rates can significantly delay payments, increase administrative costs, and reduce overall profitability.
+
+The objective of this analysis was to identify:
+- Key drivers of Medicare claim denials  
+- Trends in denial rates over time  
+- Areas of revenue leakage within the claims process  
 
 ---
 
-## 📊 Key Insights
-- Denial volume and revenue loss showed consistent monthly trends  
-- A small number of denial codes accounted for the majority of losses  
-- Denial rate trends revealed opportunities for process improvement  
+## 📊 Data Overview
+
+This analysis was conducted using a dataset of **400,000 Medicare Part B claims** (PHI-stripped), including:
+
+- Claim submission and payment status  
+- Denial reason codes  
+- Provider-level performance  
+- Monthly claim trends and reimbursement amounts  
+
+Data was queried and transformed using SQL and visualized in Tableau to uncover patterns and performance gaps.
 
 ---
 
-## 📊 Dashboard Preview
+## 🔍 Key Insights
 
-<p align="center">
-  <img src="https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-1-medicare-denials/dashboard-preview.png" width="750">
-</p>
-
----
-
-## 🔗 Project Assets
-📊 [View Tableau Dashboard](https://public.tableau.com/views/Medicare_Denials_Dashboard/MedicareDenialsOverview?:language=en-US&:display_count=n&:origin=viz_share_link)  
-🧠 [View SQL Queries](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-1-medicare-denials/medicare_denials.sql)  
+### 1. Denial Rates Are Increasing Over Time
+- Denial rates increased approximately **18% year-over-year**  
+- Spikes in denials aligned with periods of high claim volume, suggesting operational strain  
 
 ---
 
-## 🧾 Business Case Study
-
-### 📌 Problem  
-Healthcare providers experience high claim denial rates, leading to delayed reimbursements and revenue loss.
-
----
-
-### 🔍 Key Findings  
-- Denial rates showed an upward trend, increasing approximately **18% year-over-year**  
-- **Missing or incomplete documentation** accounted for ~32% of denials  
-- Certain providers had denial rates **2x higher than average**  
-- A small number of denial categories drove the majority of financial losses  
+### 2. Documentation Issues Drive the Majority of Denials
+- Missing or incomplete documentation accounted for **~32% of denials**  
+- Coding errors and eligibility issues were the next most frequent causes  
 
 ---
 
-### 💡 Recommendations  
-- Implement pre-submission validation checks to reduce preventable denials  
-- Provide targeted training for high-denial providers  
-- Standardize documentation requirements across teams  
-- Monitor denial trends using real-time dashboards  
+### 3. Provider Performance Varies Significantly
+- Some providers had denial rates **2x higher than average**  
+- High-denial providers were linked to recurring documentation and coding issues  
 
 ---
 
-### 📈 Business Impact  
-- Potential to reduce denials by **10–15%**  
+### 4. Revenue Loss Is Concentrated in Key Areas
+- A small subset of denial reasons drove the majority of revenue loss  
+- High-cost procedures had disproportionately high denial rates  
+
+---
+
+## 💡 Recommendations
+
+### ✔ Implement Pre-Submission Validation
+- Introduce automated checks for documentation completeness and coding accuracy  
+- Reduce preventable denials before submission  
+
+---
+
+### ✔ Target High-Risk Providers
+- Provide focused training for providers with elevated denial rates  
+- Monitor performance trends and enforce accountability  
+
+---
+
+### ✔ Standardize Documentation Processes
+- Establish clear documentation guidelines across teams  
+- Reduce variability in claim submissions  
+
+---
+
+### ✔ Monitor Denial Trends with Real-Time Dashboards
+- Enable continuous tracking of denial metrics  
+- Support faster response to emerging issues  
+
+---
+
+## 📈 Business Impact
+
+If implemented, these improvements could:
+
+- Reduce denial rates by **10–15%**  
 - Recover significant lost revenue annually  
-- Improve cash flow and reduce administrative rework  
+- Improve cash flow through faster reimbursements  
+- Decrease administrative rework and operational costs  
+
+---
+
+## 🔗 Project Links
+
+- 📊 [View Interactive Dashboard](https://public.tableau.com/views/Medicare_Denials_Dashboard/MedicareDenialsOverview?:language=en-US&:display_count=n&:origin=viz_share_link)  
+- 🧠 [View SQL Queries](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-1-medicare-denials/medicare_denials.sql)  
+	•	Trends in denial rates over time
+	•	Areas of revenue leakage within the claims process
+
+⸻
+
+📊 Data Overview
+
+This analysis was conducted using a dataset of 400,000 Medicare Part B claims (PHI-stripped), including:
+	•	Claim submission and payment status
+	•	Denial reason codes
+	•	Provider-level performance
+	•	Monthly claim trends and reimbursement amounts
+
+Data was queried and transformed using SQL and visualized in Tableau to uncover patterns and performance gaps.
+
+⸻
+
+🔍 Key Insights
+
+1. Denial Rates Are Increasing Over Time
+	•	Denial rates showed a consistent upward trend, increasing approximately 18% year-over-year
+	•	Spikes in denials aligned with periods of high claim volume, suggesting process strain
+
+⸻
+
+2. Documentation Issues Drive the Majority of Denials
+	•	The top denial category was missing or incomplete documentation, accounting for ~32% of all denials
+	•	Coding errors and eligibility issues were the next most frequent causes
+
+⸻
+
+3. Provider Performance Varies Significantly
+	•	Certain providers had denial rates 2x higher than the average
+	•	High-denial providers were often linked to recurring documentation or coding issues
+
+⸻
+
+4. Revenue Loss Is Concentrated in Key Areas
+	•	A small subset of denial reasons accounted for the majority of lost revenue
+	•	High-cost procedures had disproportionately high denial rates, increasing financial impact
+
+⸻
+
+💡 Recommendations
+
+Based on the findings, the following actions are recommended:
+
+✔ Implement Pre-Submission Validation
+	•	Introduce automated checks for documentation completeness and coding accuracy
+	•	Reduce preventable denials before claims are submitted
+
+⸻
+
+✔ Target High-Risk Providers
+	•	Provide focused training for providers with elevated denial rates
+	•	Monitor performance trends and enforce accountability measures
+
+⸻
+
+✔ Standardize Documentation Processes
+	•	Develop clear guidelines for required claim documentation
+	•	Reduce variability across departments and providers
+
+⸻
+
+✔ Monitor Denial Trends with Real-Time Dashboards
+	•	Enable continuous tracking of denial metrics
+	•	Allow teams to respond quickly to emerging issues
+
+⸻
+
+📈 Business Impact
+
+If implemented, these improvements could:
+	•	Reduce denial rates by an estimated 10–15%
+	•	Recover millions in lost revenue annually
+	•	Improve cash flow through faster claim approvals
+	•	Decrease administrative rework and operational costs
+
+⸻
+
+🔗 Project Links
+	•	📊 [View Interactive Dashboard] (insert your Tableau link)
+	•	📁 [View SQL Queries & Dataset] (link your repo files)
